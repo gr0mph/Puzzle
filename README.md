@@ -9,4 +9,4 @@
 | [Sudoku-validator](https://www.codingame.com/training/easy/sudoku-validator/solution) |  | 2d | | |
 | [Laser-and-mirrors](https://www.codingame.com/training/hard/laser-and-mirrors/solution) | tuple | | | |
 | [Aneo](https://www.codingame.com/open-challenge-apply/19018484) |  | Math | | |
-| [Container terminal] | | 2d dynamic, compare | | |
+| [Container terminal](https://www.codingame.com/training/easy/container-terminal/solution) | | 2d dynamic, compare | | |
