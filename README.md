@@ -10,5 +10,5 @@
 | [Laser-and-mirrors](https://www.codingame.com/training/hard/laser-and-mirrors/solution) | tuple | | | |
 | [Aneo](https://www.codingame.com/open-challenge-apply/19018484) |  | Math | | |
 | [Container terminal](https://www.codingame.com/training/easy/container-terminal/solution) | | 2d dynamic, compare | | |
-| [Vox codei episode 1(https://www.codingame.com/training/hard/vox-codei-episode-1/solution) | | queue, simulation | | |
+| [Vox codei episode 1](https://www.codingame.com/training/hard/vox-codei-episode-1/solution) | | queue, simulation | | |
 | [Surface](https://www.codingame.com/training/hard/surface/solution) | | stack, 2d | | |
