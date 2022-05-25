@@ -12,4 +12,4 @@
 | [Container terminal](https://www.codingame.com/training/easy/container-terminal/solution) | | 2d dynamic, compare | | |
 | [Vox codei episode 1](https://www.codingame.com/training/hard/vox-codei-episode-1/solution) | | queue, simulation | | |
 | [Surface](https://www.codingame.com/training/hard/surface/solution) | | stack, 2d | | |
-| [Entry-Code] | | heap | | |
+| [Entry-Code](https://www.codingame.com/training/medium/entry-code/solution) | | heap | | |
